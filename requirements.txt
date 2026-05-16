@@ -1,0 +1,10 @@
+uvicorn
+fastapi
+torch
+requests
+uuid
+transformers
+pillow
+accelerate
+Torchvision
+python-multipart
